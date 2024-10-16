@@ -1,6 +1,6 @@
 
 body {
-    background: linear-gradient(to bottom right, rgb(130, 93, 185), rgb(85, 100, 183));
+    background: linear-gradient(to bottom right, rgb(78, 130, 185), rgb(56, 10, 183));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,7 +27,7 @@ input[type="number"] {
 }
 
 button {
-    background-color: #d14090; /* Verde */
+    background-color: #d16290;
     color: white;
     padding: 10px 20px;<style>
     border: none;
@@ -39,5 +39,5 @@ button {
 }
 
 button:hover {
-    background-color: #3599f1; /* Verde mais escuro */
+    background-color: #4597f1; 
 }
