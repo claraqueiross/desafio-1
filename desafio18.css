@@ -1,6 +1,6 @@
 
 body {
-    background: linear-gradient(to bottom right, green, yellow);
+    background: linear-gradient(to bottom right, rgb(130, 93, 185), rgb(85, 100, 183));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,7 +27,7 @@ input[type="number"] {
 }
 
 button {
-    background-color: #4CAF50; /* Verde */
+    background-color: #d14090; /* Verde */
     color: white;
     padding: 10px 20px;<style>
     border: none;
